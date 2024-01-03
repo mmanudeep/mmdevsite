@@ -1,0 +1,2 @@
+mmdevsite.myshopify.com
+mediamint
