@@ -43,10 +43,35 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "170427644643150020": {
+      "type": "apps",
+      "blocks": {
+        "243529ad-ec28-48a7-b8e3-2c9656043bb0": {
+          "type": "shopify:\/\/apps\/simple-marquee\/blocks\/marquee\/1c87af44-fdf4-422c-b308-97ab9586a4c4",
+          "settings": {
+            "text": "Your message here",
+            "color_scheme": "accent-1",
+            "height": 40,
+            "style": "caption-with-letter-spacing",
+            "size": "large",
+            "duration": 20,
+            "gap": 10,
+            "stop_on_hover": true
+          }
+        }
+      },
+      "block_order": [
+        "243529ad-ec28-48a7-b8e3-2c9656043bb0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "170427644643150020"
   ]
 }
